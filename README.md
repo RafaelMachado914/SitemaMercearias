@@ -1,5 +1,5 @@
 <h1>🛒 Sistema de Mercearias</h1> 
- Este é um trabalho do intituto federal de Santa Catarina (IFSC).Faça um programa que simule o sistema de vendas de uma loja. Este programa deve apresentar
+ Este é um trabalho do Instituto Federal de Santa Catarina (IFSC).Faça um programa que simule o sistema de vendas de uma loja. Este programa deve apresentar
  as funções apresentadas a seguir.
 
 
